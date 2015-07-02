@@ -1,10 +1,10 @@
 // ==UserScript==
-// @name        AposBot
-// @namespace   AposBot
+// @name        LinkzyBot
+// @namespace   LinkzyBot
 // @include     http://agar.io/
 // @version     3.31
 // @grant       none
-// @author      http://www.twitch.tv/apostolique
+// @author      http://www.twitch.tv/rlinkzy
 // ==/UserScript==
 
 
